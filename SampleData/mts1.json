@@ -1,0 +1,36 @@
+{"machineID":["aorarib00001q05"],
+ "appname" : "MTSQA",
+      "data":
+       {    "paramInfra":
+			[
+			{"paramName":"CPU","paramType":"CPU_USAGE","value":""},
+			{"paramName":"TMP","value":"75%","paraType":"Disk"},
+			{"paramName":"Logs","value":"75%","paraType":"Disk"},
+			{"paramName":"CODE","value":"75%","paraType":"Disk"},
+			{"paramName":"OS Version","value":"6","paramType":"System"},
+			{"paramName":"MachineID","value":"00CADB304C00","paramType":"System"},
+			{"paramName":"UpTime","value":"86 days","paramType":"System"}
+			],
+			"paramCustom":
+			[
+			{"paramName":"CUR","value":["Up","NO_STATUS"],"paramType":"Lines"},
+			{"paramName":"BKT","value":["Up","NO_STATUS"],"paramType":"Lines"},
+			{"paramName":"SPT","value":["Up","NO_STATUS"],"paramType":"Lines"},
+			{"paramName":"WSS_IN","value":["Up","NO_STATUS"],"paramType":"Lines"},
+			{"paramName":"EDI","value":["Up","NO_STATUS"],"paramType":"Lines"},
+			{"paramName":"FMF_RCV","value":["Up","NO_STATUS"],"paramType":"Lines"},
+			{"paramName":"FMF_SND","value":["Up","NO_STATUS"],"paramType":"Lines"},
+			{"paramName":"FED_IN","value":["Up","NO_STATUS"],"paramType":"Lines"},
+			{"paramName":"CMG_IN","value":["Up","NO_STATUS"],"paramType":"Lines"},
+			{"paramName":"WSS_OUT","value":["Up","NO_STATUS"],"paramType":"Lines"},
+			{"paramName":"AFS_OUT","value":["Up","NO_STATUS"],"paramType":"Lines"},
+			{"paramName":"AFS_IN","value":["Up","NO_STATUS"],"paramType":"Lines"},
+			{"paramName":"CMG_OUT","value":["Up","NO_STATUS"],"paramType":"Lines"},
+			{"paramName":"FED_OUT","value":["Up","NO_STATUS"],"paramType":"Lines"},
+			{"paramName":"Number of Users","value":"0","paramType":"Scalar"},
+			{"paramName":"SWIFT","value":"1","paramType":"FILE_TYPE_COUNT","frequency":"Daily"},
+			{"paramName":"BKT","value":"1","paramType":"FILE_TYPE_COUNT","frequency":"Daily","startTime":"0900","endTime":"1700"},
+			{"paramName":"EDI","value":"1","paramType":"FILE_TYPE_COUNT","frequency":"Daily","startTime":"0900","endTime":"1700"}
+			]
+	   }
+}

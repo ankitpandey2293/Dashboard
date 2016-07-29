@@ -1,0 +1,36 @@
+{"machineID":"aorarib00001q05",
+ "appname" : "MTSQA",
+      "data":
+       {    "paramInfra":
+			[
+			{"paramType":"CPU","paramName":"CPU_USAGE","value":"1.44"},
+			{"paramName":"TMP","value":"47%","paramType":"Disk"},
+			{"paramName":"Logs","value":"26%","paramType":"Disk"},
+			{"paramName":"CODE","value":"24%","paramType":"Disk"},
+			{"paramName":"OS Version","value":"6","paramType":"System"},
+			{"paramName":"MachineID","value":"00CADB304C00","paramType":"System"},
+			{"paramName":"UpTime","value":"86 days","paramType":"System"}
+			],
+			"paramCustom":
+			[
+			{"paramName":"CUR","value":"Up","paramType":"Lines"},
+			{"paramName":"BKT","value":"Up","paramType":"Lines"},
+			{"paramName":"SPT","value":"Up","paramType":"Lines"},
+			{"paramName":"WSS_IN","value":"DOWN","paramType":"Lines"},
+			{"paramName":"EDI","value":"Up","paramType":"Lines"},
+			{"paramName":"FMF_RCV","value":"Up","paramType":"Lines"},
+			{"paramName":"FMF_SND","value":"DOWN","paramType":"Lines"},
+			{"paramName":"FED_IN","value":"Up","paramType":"Lines"},
+			{"paramName":"CMG_IN","value":"Up","paramType":"Lines"},
+			{"paramName":"WSS_OUT","value":"Up","paramType":"Lines"},
+			{"paramName":"AFS_OUT","value":"DOWN","paramType":"Lines"},
+			{"paramName":"AFS_IN","value":"Up","paramType":"Lines"},
+			{"paramName":"CMG_OUT","value":"DOWN","paramType":"Lines"},
+			{"paramName":"FED_OUT","value":"DOWN","paramType":"Lines"},
+			{"paramName":"Number of Users","value":"0","paramType":"Scalar"},
+			{"paramName":"SWIFT","value":"1","paramType":"FILE_TYPE_COUNT"},
+			{"paramName":"BKT","value":"1","paramType":"FILE_TYPE_COUNT"},
+			{"paramName":"EDI","value":"1","paramType":"FILE_TYPE_COUNT"}
+			]
+	   }
+}
